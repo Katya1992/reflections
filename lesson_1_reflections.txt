@@ -19,3 +19,4 @@ How might using version control make you more confident to make changes that cou
 You always can find previouse to some mistakes change ant compare this versions and see what changes of code called to some mistakes.
 
 Now that you have your workspace set up, what do you want to try using Git for?
+How to use different commands.
